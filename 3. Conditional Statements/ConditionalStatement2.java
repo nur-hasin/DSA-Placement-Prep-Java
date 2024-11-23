@@ -1,4 +1,4 @@
-public class ConditionalStatements2 {
+public class ConditionalStatement2 {
     public static void main(String[] args) {
         int age = 15;
 
