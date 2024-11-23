@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class UserInputs {
+public class UsrIn {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
