@@ -1,4 +1,4 @@
-public class SwitchStatementTest {
+public class ConditionTest {
     public static void main(String[] args) {
         int a = 63, b = 36;
 
