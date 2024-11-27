@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CheckNumberSign {
+public class CheckNumSign {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number: ");
